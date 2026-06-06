@@ -63,4 +63,5 @@ git clone https://github.com/NARC-Neepu-Auto-Robotic-Collective/<repo-name>.git
 <p align="center">
   <b>前人栽树，后人乘凉 🌳</b><br/>
   <sub>Made with ❤️ by NEPU students, for NEPU students</sub>
+  <sub>东北电力大学 自动化工程学院 自动化 机器人 实验室</sub>
 </p>
